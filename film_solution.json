@@ -1,0 +1,49 @@
+{
+  "Films": [
+    {
+      "Titre": "Les Minions",
+      "Budget": 2000000,
+      "description" : "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "directeur": "Kyle Balda, Pierre Coffin",
+      "Auteur": "Brian Lynch,",
+      "Date": 2015,
+      "Vedette": [
+        {
+          "Nom": "Sandra Bullock",
+          "age": 23,
+          "Personnage": "Scarlet Overkill (voix)"
+        },
+        {
+          "Nom": "Jon Hamm",
+          "age": 24,
+          "Personnage": "Herb Overkill  (voix)"
+        },
+        {
+          "Nom": "Michael Keaton",
+          "age": 25,
+          "Personnage": "Walter Nelson (voix)"
+        }
+      ]
+    },
+    {
+      "Titre": "The French Dispatch",
+      "Budget": 3000000,
+      "description" : "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in The French Dispatch Magazine",
+      "directeur": "Wes Anderson",
+      "Auteur": "Wes Anderson,",
+      "Date": 2021,
+      "Vedette": [
+        {
+          "Nom": "Timothée Chalamet",
+          "age": 27,
+          "Personnage": "Zeffirelli"
+        },
+        {
+          "Nom": "Owen Wilson",
+          "age": 28,
+          "Personnage": "Herbsaint Sazerac"
+        }
+      ]
+    }
+  ]
+}
