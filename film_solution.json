@@ -29,13 +29,36 @@
       ]
     },
     {
+      "Titre": "Fight Club",
+      "Budget": 3000000,
+      "totalUSA": 2000000,
+      "totalMonde": 4000000,
+      "description" : "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
+      "directeur": "David Fincher",
+      "Auteur": "David Fincher",
+      "Date": 2021,
+      "Ouverture": "19 Juillet 2021",
+      "Vedette": [
+        {
+          "Nom": "Brad Pitt",
+          "age": 27,
+          "Personnage": "Tyler Durden"
+        },
+        {
+          "Nom": "Edward Norton",
+          "age": 28,
+          "Personnage": "The Narrator"
+        }
+      ]
+    },
+    {
       "Titre": "The French Dispatch",
       "Budget": 3000000,
       "totalUSA": 2000000,
       "totalMonde": 4000000,
       "description" : "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in The French Dispatch Magazine",
       "directeur": "Wes Anderson",
-      "Auteur": "Wes Anderson,",
+      "Auteur": "Wes Anderson",
       "Date": 2021,
       "Ouverture": "2 Juillet 2021",
       "Vedette": [
