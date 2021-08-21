@@ -3,10 +3,13 @@
     {
       "Titre": "Les Minions",
       "Budget": 2000000,
+      "totalUSA": 2000000,
+      "totalMonde": 4000000,
       "description" : "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
       "directeur": "Kyle Balda, Pierre Coffin",
       "Auteur": "Brian Lynch,",
       "Date": 2015,
+      "Ouverture": "9 Juillet 2021",
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
@@ -28,10 +31,13 @@
     {
       "Titre": "The French Dispatch",
       "Budget": 3000000,
+      "totalUSA": 2000000,
+      "totalMonde": 4000000,
       "description" : "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in The French Dispatch Magazine",
       "directeur": "Wes Anderson",
       "Auteur": "Wes Anderson,",
       "Date": 2021,
+      "Ouverture": "2 Juillet 2021",
       "Vedette": [
         {
           "Nom": "Timothée Chalamet",
