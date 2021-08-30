@@ -48,6 +48,11 @@
           "Nom": "Edward Norton",
           "age": 28,
           "Personnage": "The Narrator"
+        },
+        {
+          "Nom": "Jared Leto",
+          "age": 28,
+          "Personnage": "Angel Face"
         }
       ]
     },
