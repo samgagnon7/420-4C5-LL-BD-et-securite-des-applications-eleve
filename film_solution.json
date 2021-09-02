@@ -1,81 +1,81 @@
 {
   "Films": [
     {
-      "Titre": "Les Minions",
-      "Budget": 2000000,
+      "titre": "Les Minions",
+      "budget": 2000000,
       "totalUSA": 2000000,
       "totalMonde": 4000000,
       "description" : "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
       "directeur": "Kyle Balda, Pierre Coffin",
-      "Auteur": "Brian Lynch,",
-      "Date": 2015,
-      "Ouverture": "9 Juillet 2021",
-      "Vedette": [
+      "auteur": "Brian Lynch,",
+      "date": 2015,
+      "ouverture": "9 Juillet 2021",
+      "vedette": [
         {
-          "Nom": "Sandra Bullock",
+          "nom": "Sandra Bullock",
           "age": 23,
-          "Personnage": "Scarlet Overkill (voix)"
+          "personnage": "Scarlet Overkill (voix)"
         },
         {
-          "Nom": "Jon Hamm",
+          "nom": "Jon Hamm",
           "age": 24,
-          "Personnage": "Herb Overkill  (voix)"
+          "personnage": "Herb Overkill  (voix)"
         },
         {
-          "Nom": "Michael Keaton",
+          "nom": "Michael Keaton",
           "age": 25,
-          "Personnage": "Walter Nelson (voix)"
+          "personnage": "Walter Nelson (voix)"
         }
       ]
     },
     {
-      "Titre": "Fight Club",
-      "Budget": 3000000,
+      "titre": "Fight Club",
+      "budget": 3000000,
       "totalUSA": 2000000,
       "totalMonde": 4000000,
       "description" : "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
       "directeur": "David Fincher",
-      "Auteur": "David Fincher",
-      "Date": 2021,
-      "Ouverture": "19 Juillet 2021",
-      "Vedette": [
+      "auteur": "David Fincher",
+      "date": 2021,
+      "ouverture": "19 Juillet 2021",
+      "vedette": [
         {
-          "Nom": "Brad Pitt",
+          "nom": "Brad Pitt",
           "age": 27,
-          "Personnage": "Tyler Durden"
+          "personnage": "Tyler Durden"
         },
         {
-          "Nom": "Edward Norton",
+          "nom": "Edward Norton",
           "age": 28,
-          "Personnage": "The Narrator"
+          "personnage": "The Narrator"
         },
         {
-          "Nom": "Jared Leto",
+          "nom": "Jared Leto",
           "age": 28,
-          "Personnage": "Angel Face"
+          "personnage": "Angel Face"
         }
       ]
     },
     {
-      "Titre": "The French Dispatch",
-      "Budget": 3000000,
+      "titre": "The French Dispatch",
+      "budget": 3000000,
       "totalUSA": 2000000,
       "totalMonde": 4000000,
       "description" : "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in The French Dispatch Magazine",
       "directeur": "Wes Anderson",
-      "Auteur": "Wes Anderson",
-      "Date": 2021,
-      "Ouverture": "2 Juillet 2021",
-      "Vedette": [
+      "auteur": "Wes Anderson",
+      "date": 2021,
+      "ouverture": "2 Juillet 2021",
+      "vedette": [
         {
-          "Nom": "Timothée Chalamet",
+          "nom": "Timothée Chalamet",
           "age": 27,
-          "Personnage": "Zeffirelli"
+          "personnage": "Zeffirelli"
         },
         {
-          "Nom": "Owen Wilson",
+          "nom": "Owen Wilson",
           "age": 28,
-          "Personnage": "Herbsaint Sazerac"
+          "personnage": "Herbsaint Sazerac"
         }
       ]
     }
